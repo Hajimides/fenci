@@ -1,0 +1,5 @@
+jieba==0.42.1
+pandas==3.0.5
+cnsenti==0.0.7
+opencc-python-reimplemented==0.1.7
+numpy==2.5.3
